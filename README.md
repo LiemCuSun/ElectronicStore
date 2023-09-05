@@ -2,7 +2,7 @@
 Electronic Store Beta Test
 
 <h1 align="center">Hi there ! What's Up! 👋</h1>
-<h1 align="center">This is my Final Project for Purwadhika FullStack Programme</h1>
+<h1 align="center">This is my Final Project for Purwadhika FullStack Boothcamp</h1>
 
 ###
 
